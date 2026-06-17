@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Proyecto_RyG.ipynb (entregado)
+- Proyecto_RyG.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Se observa mucho trabajo e iteración en muy poco tiempo.
 
 ## Retroalimentación
 
-- Archivo revisado: Proyecto_RyG.ipynb
+- Archivo revisado: Proyecto_RyG.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -40,12 +40,21 @@ Interpretación breve: Se observa mucho trabajo e iteración en muy poco tiempo.
 
 ### Aspectos por mejorar
 
-- Mejora la legibilidad separando celdas de cálculo y celdas de visualización. Esto hará más fácil revisar, depurar y justificar cada resultado.
-- Añade más texto puente entre bloques de código para explicar qué decisión física se tomó y por qué.
-- Refuerza la interpretación de resultados: no solo mostrar la gráfica, sino explicar qué fenómeno confirma y qué no logra capturar todavía el modelo.
-- Para próximas entregas, distribuye el trabajo con mayor anticipación para tener más tiempo de validación y ajustes finos.
+- Mejora la legibilidad separando celdas de cálculo y celdas de visualización. Esto hará más fácil revisar, depurar y justificar cada resultado. [Mejorado]
+- Añade más texto puente entre bloques de código para explicar qué decisión física se tomó y por qué. [Mejorado]
+- Refuerza la interpretación de resultados: no solo mostrar la gráfica, sino explicar qué fenómeno confirma y qué no logra capturar todavía el modelo. [Mejorado]
 
 ### Valoración global
 
 - Trabajo intenso, con buen alcance técnico y cierre completo. La principal mejora es fortalecer la presentación y la interpretación física para que la calidad del análisis quede al nivel del esfuerzo computacional.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora para fortalecer el informe final.
+- Excelente organización, buenos experimentos numéricos adicionales.
+
+## Valoración final
+
+- Mejoras implementadas: 5,00 (70%)
+- Aplicación al repositorio: 3,50 (10%)
+- Aspectos positivos: 4,30 (10%)
+- Valoración global: 4,00 (10%)
+
+**Nota final (redondeada)**: 4,7
